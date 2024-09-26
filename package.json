@@ -1,0 +1,16 @@
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "my first node project",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Lillian Nelson",
+  "license": "ISC"
+}
